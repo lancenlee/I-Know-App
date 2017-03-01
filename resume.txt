@@ -1,0 +1,7 @@
+此App为山东理工大学——计算机学院——CIL实验室——Android团队（李诗毅、王刚）创作
+
+1.运用 VideoView、以及使用 MaterialDesign 的设计风格（AppBar）实现了引导界面的功能 
+2.运用 Fragment、ViewPager、CoordinatorLayout 实现了左侧菜单栏以及主页 tab 切换的功能
+3.运用 RecyclerView、ItemTouchHelper 实现了其它热门页上的 Item 的 GridLayoutManager 样式以及 拖拽点击效果 
+4.运用 OKHttp3 框架、Picasso 框架、RecyclerView、实现了网络请求，图片的加载、以及图片的流 式布局的功能 
+5.运用 WebMagic 框架，对山东理工大学网站（http://www.sdut.edu.cn/735/list.htm）的数据爬取，实 现了图片，信息的数据传输功能 
